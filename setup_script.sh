@@ -24,7 +24,7 @@ read -s -p "Enter MySQL password: " DB_PASS
 echo
 read -p "Enter the captive portal domain (e.g., hotspot.example.com): " DOMAIN_NAME
 read -p "Enter your email for SSL certificate registration: " EMAIL
-read -p "Enter the repository URL (e.g., https://github.com/splash-networks/mikrotik-yt-radius-portal): " REPO_URL
+read -p "Enter the repository URL (e.g., https://github.com/MUK-code/Wifi-portal.git): " REPO_URL
 
 # Set additional variables
 WEB_ROOT="/var/www"
