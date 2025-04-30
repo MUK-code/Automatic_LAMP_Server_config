@@ -21,7 +21,7 @@ OR
 Clone this repository:
 ```
 Copy code
-git clone https://github.com/sheriyar59/Automated-LAMP-Captive-Portal-Setup-Script
+git clone https://github.com/MUK-code/Automatic_LAMP_Server_config.git
 cd Automated-LAMP-Captive-Portal-Setup-Script/
 chmod +x setup_script.sh 
 sudo ./setup_script.sh
